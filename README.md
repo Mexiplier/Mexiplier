@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mexiplier
 - 👀 I’m interested in Star Wars, Marvel, LEGO, etc...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++, Python, Java, and JavaScript
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me mexiplier022@gmail.com
 
 <!---
